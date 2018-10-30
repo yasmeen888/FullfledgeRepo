@@ -5,9 +5,18 @@ Here are the instructions
 32
 32
 
+<<<<<<< HEAD
 I
 Will
 Check
 You
 After
 update
+=======
+
+Please
+refer
+to 
+the website
+
+>>>>>>> c9ad575c5f40aebf181882b62e7ca4f6f1e68bb5

@@ -1,5 +1,11 @@
 #1
 !!!!!!!
+<<<<<<< HEAD
 CHecking local
 check how to add
 Check how to delete
+=======
+Title
+is 
+missing
+>>>>>>> c9ad575c5f40aebf181882b62e7ca4f6f1e68bb5
